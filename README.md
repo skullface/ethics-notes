@@ -1,10 +1,19 @@
-# Ethics, Public Policy and Technology Change course notes
+# “Ethics, Public Policy and Technology Change” course notes
 
-I’m taking a class and keeping my lecture and discussion notes here!
+> **“If we want a more ethically informed technology industry today, we need an ethical study for technology professionals, not just college students.”** — Lisa Wehden, [Silicon Valley Needs a New Approach to Studying Ethics Now More than Ever](https://techcrunch.com/2020/04/24/silicon-valley-needs-a-new-approach-to-studying-ethics-now-more-than-ever/)
+
+Collected notes, links, and musings from the 2-month evening course on ethics in technology for working professionals, from Stanford and Bloomberg Beta.
+
+From the course sign-up:
+> **Evening course with Stanford professors and Bloomberg Beta (Feb–March 2021)**
+>
+> Over the course of seven weeks, admitted students will study with three Stanford professors and a curated group of technologists, public officials, civil society leaders, and scholars in conversation around ethics, public policy, and technological change.
+>
+> The focus: discuss multiple, often opposing, views about what can and should be done around the ethical and social issues technology companies face. We’ll look at fundamental texts, and explore them in the context of issues like; obligations to community and society, data privacy, algorithmic decision-making, handling contractors vs. employees, geopolitics, the power of private platforms, diversity and inclusion, and the culture of Silicon Valley.
 
 ---
 
-## Session 1 of 7, 3 Feb
+## Session 1, 3 Feb
 
 As a group of technology professionals who care about ethics, we are not trying to find a utopia that can’t exist — but not having a perfect answer to our thorny problems is not an excuse to throw up our hands and do nothing. “**_Complicity is the resting state of adulthood._**” Learning, thinking, and engaging in discussions about ethics should be morally ”caffeinating“, stimulating for future action.
 
@@ -24,7 +33,7 @@ You should lose sleep at night when you hesitate between answering what you *sho
 * James, William. “[The Moral Philosopher and the Moral Life.](https://en.wikipedia.org/wiki/The_Moral_Philosopher_and_the_Moral_Life)” *The Will to Believe and Other Essays in Popular Philosophy: Human Immortality*, 1956, p. 185.
 * Hirschman, Albert O. [*Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States*](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty). 2007.
 
-## Session 2 of 7, 10 Feb: Privacy and digital civil liberties
+## Session 2, 10 Feb: Privacy and digital civil liberties
 
 
 ### Reading discussion
