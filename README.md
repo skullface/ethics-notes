@@ -7,8 +7,13 @@
 Collected notes, links, and personal musings from the 2-month evening course on ethics in technology for working professionals from Stanford and Bloomberg Beta. 
 
 ### Table of contents
-* [Session one, 3 Feb](https://github.com/skullface/ethics-notes/blob/main/README.md#session-one-3-feb)
-* [Session two, 10 Feb: Privacy and digital civil liberties](https://github.com/skullface/ethics-notes#session-two-10-feb-privacy-and-digital-civil-liberties)
+1. [February 3, 2021: Opening session](https://github.com/skullface/ethics-notes/blob/main/README.md#3-feb-opening-session)
+2. [February 10, 2021: Privacy and digital civil liberties](https://github.com/skullface/ethics-notes#10-feb-privacy-and-digital-civil-liberties)
+3. Februrary 17, 2021
+4. February 24, 2021
+5. March 3, 2021
+6. March 10, 2021
+7. March 17, 2021
 
 ---
 
@@ -25,7 +30,7 @@ Collected notes, links, and personal musings from the 2-month evening course on 
 
 ---
 
-## Session one, 3 Feb
+## 3 Feb: Opening session
 
 As a group of technology professionals who care about ethics, we are not trying to find a utopia that can’t exist — but not having a perfect answer to our thorny problems is not an excuse to throw up our hands and do nothing. “**_Complicity is the resting state of adulthood._**” Learning, thinking, and engaging in discussions about ethics should be morally ”caffeinating“, stimulating for future action.
 
@@ -45,7 +50,7 @@ You should lose sleep at night when you hesitate between answering what you *sho
 * James, William. “[The Moral Philosopher and the Moral Life.](https://en.wikipedia.org/wiki/The_Moral_Philosopher_and_the_Moral_Life)” *The Will to Believe and Other Essays in Popular Philosophy: Human Immortality*, 1956, p. 185.
 * Hirschman, Albert O. [*Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States*](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty). 2007.
 
-## Session two, 10 Feb: Privacy and digital civil liberties
+## 10 Feb: Privacy and digital civil liberties
 
 
 ### Reading discussion
