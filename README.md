@@ -8,7 +8,7 @@ Collected notes, links, and personal musings from the 2-month evening course on 
 
 ### Table of contents
 1. [February 3, 2021: Opening session](https://github.com/skullface/ethics-notes/blob/main/README.md#3-feb-opening-session)
-2. [February 10, 2021: Privacy and digital civil liberties](https://github.com/skullface/ethics-notes#10-feb-privacy-and-digital-civil-liberties)
+2. [February 10, 2021: Privacy and digital civil liberties](https://github.com/skullface/ethics-notes#10-feb-data-collection-privacy-and-digital-civil-liberties)
 3. Februrary 17, 2021
 4. February 24, 2021
 5. March 3, 2021
@@ -50,22 +50,31 @@ You should lose sleep at night when you hesitate between answering what you *sho
 * James, William. “[The Moral Philosopher and the Moral Life.](https://en.wikipedia.org/wiki/The_Moral_Philosopher_and_the_Moral_Life)” *The Will to Believe and Other Essays in Popular Philosophy: Human Immortality*, 1956, p. 185.
 * Hirschman, Albert O. [*Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States*](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty). 2007.
 
-## 10 Feb: Privacy and digital civil liberties
+## 10 Feb: Data collection, privacy and digital civil liberties
+
+### Focuses
+* Changing norms and laws around privacy across time and cultures, including how people balance privacy vs. other goals
+* Data aggregation, matching, and de-anonymization strategies
+* Facial recognition technology (used by public and private actors)
+* Consent for different types and uses of data
 
 ### What is privacy?
 
-* Aristotle: the public sphere (politics and commerce, for men) X the private sphere (domestic life, family and friends, the realm of women)
-  * Individuals have interests in shielding the public from seeing/hearing what happens in private
+* Aristotle: public sphere (politics and commerce 🚹) differs from private sphere (domestic life, family and friends 🚺)
+  * Individuals have interests in shielding the public from what happens in private
 
-* Contemporarily, **social context is what's important**, in public or in private (Nissenbaum).
-  * We want to be able to control what is known about us, how we present ourselves, whether we are in public or private spaces. 
+* Social context is key, regardless of being in public or private
+  * We want to be able to control what is known about us + how we present ourselves
   * Privacy is central to individual autonomy or self-determination
 
-* The modern philosophical defintion of privacy: **the claim of indvidiauls to determine for themselves when, how, and to what extent information about them is shared with or communicated to others** 
+* Modern, philosophical defintion of privacy:
+  > **The claim of individuals to determine for themselves when, how, and to what extent information about them is shared with or communicated to others**\
+  > _Privacy and Freedom_, by Alan F. Westin, Atheneum, 1970, p. 7. 
   * Violations of privacy impose harms
-  * Protecting intimacy, freedom, and control
+  * Privacy is about protecting intimacy, freedom, and control (Solove, “‘I’ve Got Nothing to Hide’”)
 
-#### Privacy harms (Solove, “A taxonomy of privacy”)
+#### Privacy harms
+Solove, Daniel J. “[A Taxonomy of Privacy](https://www.jstor.org/stable/40041279?seq=1).” University of Pennsylvania Law Review, vol. 154, no. 3, 2006, p. 477.
 
 1. Information collection (surveillance)
 2. Information processing (aggregation and inferences from big data)
@@ -74,76 +83,63 @@ You should lose sleep at night when you hesitate between answering what you *sho
 
 #### Rival values
 
-What other values (or rights, or interests) might be in tension with privacy (however we construe it)?
+What other values/rights/interests might be in tension with privacy?
 
 1. National security (terrorism)
 2. Public safety (crime)
 3. Innovation
 4. Convenience
 
-### Notice and consent
+#### Notice and consent
 
-Generally the U.S. approach to data held by companies is based on a combination of **transparency and choice**. 
+* U.S. approach to a company’s data: transparency and choice 
+* U.S. entities inform individuals and provide a choice to consent or not
+* …This is appealing because 
+  1. our idea of privacy is to control information about ourselves
+  2. we are committed to the idea of a free market
+* But that’s only true if…
+  1. Individuals must be able to make informed, rational choices about the costs and benefits of different privacy policies
+  2. The market must be able to deliver a diversity of products with different privacy settings
+  3. We must be able to achive the societal balance that we want between privacy and other values via a set of decentralized decisions
+* …Are those true in practice?
+* Are individuals today actually up to the challenge of navigating privacy?
+  * Social scientists are skeptical (Acquisti 2015). Lawyers are concerned (Solove 2013). Information scientists doubt it (Nissenbaum 2011).
+    1. People are uncertain about their preferences
+    2. Pereferences are context-dependent
+    3. Privacy prefs can be manipulated
+    4. Privacy self-management does not scale well
+    5. People cannot factor in aggregation
+    6. People cannot anticipate harm
 
-U.S. entities inform individuals of their respective information-flow practices and providep eople with a choice to consent or not.
+#### What are the alternatives?
 
-This approach has a broad appeal given:
+* Comprehensive privacy regulation
+  * …denies people the freedom to make choices
+  * …is not always clear in the trade off of privacy vs. data use
+  * …limits social benefits to data aggregation
+* Improving privacy self-management through:
+  * Opt-in > opt-out consent
+  * Global > local management
+  * Focus on downstream use
+  * Acceptability of basic privacy norms
 
-1. Our conception of privacy as the right to control information about oneself2
-2. Our commitment to notions of a competitive free market, in which people can go elsewhere if they don't like the terms.
-
-For the current light-touch approach to privacy regulation to work, three things msut be true:
-
-1. Individuals must be able to make informed, rational choices about the costs and benefits of different privacy policies
-2. The market must be able to deliver a diversity of products with different privacy settings
-3. We must be able to achive the societal balance that we want between privacy and other values via a set of decentralized decisions
-
-…Are these things true in practice?
-
-Are individuals up to the challenge of navigating privacy in the information age?
-
-Social scientists are skeptical (Acquisti 2015). Lawyers are concerned (Solove 2013). Information scientists doubt it (Nissenbaum 2011). Why?
-
-1. People are uncertain about their preferences
-2. Pereferences are context-dependent
-3. Privacy prefs can be manipulated
-4. Privacy self-management does not scale well
-5. People cannot factor in aggregation
-6. People cannot anticipate harm
-
-#### Alternatives?
-
-Comprehensive privacy regulation, but:
-
-* This denies people the freedom to make choices
-* It's not always clear how to trade off privacy and data use
-* There are social benefits to data aggregation
-
-Improving privacy self-management through:
-
-* Opt-in consent rather than opt-out consent
-* Managing privacy globally rather than locally
-* Focusing on downstream use
-* Codify basic privacy norms about what is not acceptable
-
-### Perspectives on data privacy
+#### Perspectives on data privacy
 
 * Data privacy often involves a balance of competing interests
 * Making data available for meaningful analysis
   * for public good: medical research and healthcare improvement, protecting national security
   * for private good: personalized advertising
-* Deleting identifiers doesn't make data unidentifiable
+* Deleting identifiers doesn’t make PII unidentifiable
 
 ### Why do _I_ care about protecting my own privacy?
 
-- I'm an outspoken woman on the Internet and that comes with a cost. I need to protect myself and my family from any potential abuse.
-- I don't want to be treated differently because of my lifestyle, like where I live. 
-- I don't want to be discriminated against based on what I don't know about. 
-- I'm going to live for a while — I want to be in charge of what exists in the future for my self, my family, and my children.
-- I want to be able to act freely.
+- I’m an outspoken woman on the Internet and that comes with a cost. I need to protect myself and my family from any potential abuse.
+- I don’t want to be discriminated against based on criteria I don’t know about. 
+- I’m going to live for a while — I want to be in charge of what information about me exists in the future for my self, my family, and my children.
 - I want to be able to protest against my country and my government without fear for my safety.
+- I don’t want to be treated differently because of lifestyle choices I intend to keep private.
 - I want to be able to make my own decisions without the influence of microtargeting.
-- I work for a visible, prominent company, so bad actors might want to do harm to gain access to internal info, which could jeapordize my employment.
+- I work for a visible, prominent company, and bad actors could weaponize that against me based on information I intend to keep private.
 
 ### Reading list
 
