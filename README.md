@@ -9,7 +9,7 @@ Collected notes, links, and personal musings from the 2-month evening course on 
 ### Table of contents
 1. [February 3, 2021: Opening session](https://github.com/skullface/ethics-notes/blob/main/README.md#3-feb-opening-session)
 2. [February 10, 2021: Privacy and digital civil liberties](https://github.com/skullface/ethics-notes#10-feb-data-collection-privacy-and-digital-civil-liberties)
-3. Februrary 17, 2021
+3. [Februrary 17, 2021: Platforms and the public sphere](https://github.com/skullface/ethics-notes#17-feb-platforms-and-the-public-sphere)
 4. February 24, 2021
 5. March 3, 2021
 6. March 10, 2021
@@ -182,3 +182,11 @@ What other values/rights/interests might be in tension with privacy?
 * "A Right to Reasonable Inferences: Re-Thinking Data Protection Law in the Age of Big Data and AI" by Sandra Wachter and Brent Mittelstadt, pp. 1-18, 78-85 (Columbia Business Law Review, Forthcoming)
 * “We May Own Our Data, but Facebook Has a Duty to Protect It” by Nathan Heller (New Yorker, 2018)
 * “State Privacy Legislation Stalls Despite High Hopes” by Ashley Gold (The Information, 2019)
+
+## 17 Feb: Platforms and the public sphere
+
+### Reading list
+* [Chapter 2](https://www.google.com/url?q=https://indd.adobe.com/view/fe20936e-cc7c-46d7-ac5a-97d5f5c87d93&sa=D&source=editors&ust=1613178882120000&usg=AOvVaw0t5Qhy-OdGFqP-fyXOUHG1) of *On Liberty* by John Stuart Mill (republished by Heterodox Academy, 2019)
+* “[A Declaration of Independence of Cyberspace](https://www.google.com/url?q=https://www.eff.org/cyberspace-independence&sa=D&source=editors&ust=1613178882121000&usg=AOvVaw2fBHZIOqhjM-K9jGPudWhH)” by John Perry Barlow (1996)
+* “[Permanent suspension of @realDonaldTrump](https://www.google.com/url?q=https://blog.twitter.com/en_us/topics/company/2020/suspension.html&sa=D&source=editors&ust=1613178882121000&usg=AOvVaw3McQD7Aqs6BEjFOdibysjS),” Statement by Twitter (2021)
+* “[Amazon, Apple and Google Cut Off Parler, an App That Drew Trump Supporters](https://www.google.com/url?q=https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html&sa=D&source=editors&ust=1613178882121000&usg=AOvVaw337GQHcdoM9nl1tdV8UkUP),” *New York Times* (2021)
