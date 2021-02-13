@@ -44,11 +44,17 @@ Consider rejecting the premise of the question before even considering your answ
 
 You should lose sleep at night when you hesitate between answering what you *should* do and what you *would* do.
 
-##### Further reading
+##### Supplementary reading
 
 * Kristof, Nicholas. “[We Are a Nation of Child Abusers.](https://www.nytimes.com/2021/02/03/opinion/biden-child-poverty.html)” *The New York Times*, 3 Feb 2021.
 * James, William. “[The Moral Philosopher and the Moral Life.](https://en.wikipedia.org/wiki/The_Moral_Philosopher_and_the_Moral_Life)” *The Will to Believe and Other Essays in Popular Philosophy: Human Immortality*, 1956, p. 185.
 * Hirschman, Albert O. [*Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States*](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty). 2007.
+* “Two Cultures” by C. P. Snow (The Rede Lecture, 1959)
+* “Solving for Pattern” by Wendell Berry (Chapter 9 in The Gift of Good Land: Further Essays Cultural & Agricultural, North Point Press, 1981)
+Partnership on AI Tenets
+* “Of Course Congress Is Clueless About Tech—It Killed Its Tutor” (WIRED, 2016)
+* “Data Science as Political Action: Grounding Data Science in a Politics of Justice” by Ben Green (2019)
+* “Optimize What?" by Jimmy Wu
 
 ## 10 Feb: Data collection, privacy and digital civil liberties
 
@@ -148,6 +154,31 @@ What other values/rights/interests might be in tension with privacy?
 * Hill, Kashmir. “[The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html).” *The New York Times*, 18 Jan. 2020. 
 * Green, Matthew. “[What is Differential Privacy?](https://blog.cryptographyengineering.com/2016/06/15/what-is-differential-privacy/)” *A Few Thoughts on Cryptographic Engineering*, 15 June 2016.
 
-### Further reading
+#### Supplementary reading
 
-TK
+* Sarah Igo, The Known Citizen, Introduction, pp. 1-16 (Harvard University Press, 2018)
+* Michel Foucault, Discipline and Punish, ch. 3 “Panopticism”
+* Stanford Administrative Guide, 6.1.1 Privacy and Access to Electronic Information
+* “A Contextual Approach to Privacy Online” by Helen Nissenbaum (Daedalus 140 (4), Fall 2011)
+* “The Class Differential in Privacy Law” by Michele Estrin Gilman (Brooklyn Law Review, 2012)
+* “Limitless Worker Surveillance” by Ifeoma Ajunwa, Kate Crawford, and Jason Schultz (California Law Review, 2016)
+* “Facebook and the ‘Dead Body’ Problem” by Gideon Lewis-Kraus (New York Times, 2018)
+* Shoshana Zuboff, The Age of Surveillance Capitalism, Chapter 18 (PublicAffairs, 2019)
+* “Privacy and Information Sharing” by Lee Rainie and Maeve Duggan, pp. 1-8 (skim the rest), (Pew Research Center, 2016)
+* “Americans feel the tensions between privacy and security concerns” by Shiva Maniam (Pew Research Center, 2016)
+* “Privacy and Data Protection in an International Perspective” by Lee A. Bygrave, sections 3-5 (Scandinavian Studies in Law, 2010)
+* "Privacy Self-Management and the Consent Dilemma" by Daniel Solove (Harvard Law Review, 2012)
+* “Nudging Privacy: The Behavioral Economics of Personal Information” by Alessandro Acquisti (IEEE Security & Privacy, 2009)
+* “Private traits and attributes are predictable from digital records of human behavior” by Michal Kosinski, David Stillwell, and Thore Graepel (PNAS, 2013)
+* “Differential Privacy: A Primer for a Non-technical Audience” by Alexandra Wood et al. (Vanderbilt Journal of Entertainment & Technology Law, 2018), pp. 211-214 (Executive Summary) and pp. 225-246 (Sections III and IV)
+* “Why ‘Anonymous’ Data Sometimes Isn’t” by Bruce Schneier (WIRED, December 2007)
+* “The Promise of Differential Privacy: A Tutorial on Algorithmic Techniques” by Cynthia Dwork (Microsoft Research, 2011)
+* “Comparing Privacy Laws: GDPR v. CCPA” by DataGuidance and Future of Privacy Forum (2018)
+* GDPR, Art. 5 “Principles relating to processing of personal data”
+* Eric Glen Weyl and Eric Posner, Radical Markets, ch. 5 “Data as Labor” (Princeton University Press, 2018)
+* “A Design for Public Trustee and Privacy Protection Regulation” by Priscilla M. Regan (Stanford Working Paper, 2019)
+* “Jaron Lanier Fixes the Internet” by Jaron Lanier and Adam Westbrook (video series) (New York Times, 2019)
+* “Information Fiduciaries and the First Amendment” by Jack Balkin (UC Davis Law Review, 2016)
+* "A Right to Reasonable Inferences: Re-Thinking Data Protection Law in the Age of Big Data and AI" by Sandra Wachter and Brent Mittelstadt, pp. 1-18, 78-85 (Columbia Business Law Review, Forthcoming)
+* “We May Own Our Data, but Facebook Has a Duty to Protect It” by Nathan Heller (New Yorker, 2018)
+* “State Privacy Legislation Stalls Despite High Hopes” by Ashley Gold (The Information, 2019)
