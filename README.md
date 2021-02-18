@@ -218,3 +218,46 @@ What other values/rights/interests might be in tension with privacy?
 - Barlow, John Perry. “[A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence).” John Perry Barlow Library, Electronic Frontier Foundation, 8 Feb. 1996. 
 - “[Permanent Suspension of @RealDonaldTrump](https://blog.twitter.com/en_us/topics/company/2020/suspension.html).” Twitter, Inc., 8 Jan. 2021. 
 - Nicas, Jack, and Davey Alba. “[Amazon, Apple and Google Cut Off Parler, an App That Drew Trump Supporters](https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html).” _The New York Times_, 10 Jan. 2021. 
+
+Content moderation is a really hard problem.
+
+ * Obvious to us in tech, but not to ordinary citizens
+ * What makes speech valuable? What about technology that changes that? 
+ * The rise of private superpowers not beholden to the first amendment: Facebook and Twitter’s policies on expression is more consequential than France's. 
+ * Autonomous review and 
+ * There are more options than a binary show/don't show when it comes to content moderation
+    * Subject content to fact-checking, warning messages, lower its reach through visibility filtering, user timeouts, etc.
+
+
+
+Should Twitter join Facebook's Review Board? Mark shouldn't decide alone, neither should [Jack](https://twitter.com/jack/status/1349510769268850690). 
+
+Does a review board remove accountability from the company itself? Is that a good thing? The review board has a different incentive structure than business needs. The Review Board is an Appeal Court, not a Decision Body. Is public transparency in the board — its members, its budget, its process — is even more important than what the board does?
+
+Codify "awful but lawful" — legal is a very low bar with regard to content moderatin.
+
+What are decisions that courts should make vs. decisions that companies should make?
+
+Whether content exists is different from whether content is seen.
+
+There is an unprecedented level of scope to community standards on social media.
+
+Deplatforming Parler was a deplatforming of a platform. Apple asked Parler to provide a content moderation plan within 24 hours before kicking them off. Will Apple ask that of others? Is Apple a content moderation reviewer?
+
+International human rights standards on incitement differ from existing content moderation policies. And international human rights standards value freedom of expression.
+
+Rules are made on the fly. Decisions and documents left internal, which leads to a lack of public transparency and oversight.
+
+https://www.lawfareblog.com/rushing-judgment-examining-government-mandated-content-moderation
+
+https://podcasts.apple.com/us/podcast/glenn-greenwald-on-substack-content-moderation-joe/id1522960417?i=1000507594869
+
+Will fringe audiences radicalize further as the large forum public spaces online disallow them? 
+
+Salesforce has taken unspecified action to stop the RNC from sending messages from possibly inciting violence. How far up the stack or down the stack should content moderation go? Telecom companies?
+
+In a polarized society, people will look to the individuals with the most power and influence and thus the greatest ability to cause harm and further division.
+
+Political officials that have an incentive to stay in power despite not being democratically elected should be held to the same standard citizens are, without special treatment.
+
+When you can't define the science behind the "art" of moderation, how do you move forward? 
