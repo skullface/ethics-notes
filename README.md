@@ -10,7 +10,7 @@ Collected notes, links, and personal musings from the 2-month evening course on 
 1. [February 3, 2021: Opening session](./session-1.md)
 2. [February 10, 2021: Privacy and digital civil liberties](./session-2.md)
 3. [Februrary 17, 2021: Platforms and the public sphere](./session-3.md)
-4. February 24, 2021: Artificial intelligence and autonomous systems
+4. [February 24, 2021: Artificial intelligence and autonomous systems](./session-4.md))
 5. March 3, 2021: Algorithmic decision-making and accountability
 6. March 10, 2021: Technology, inclusion, and inequality
 7. March 17, 2021: Concluding session
