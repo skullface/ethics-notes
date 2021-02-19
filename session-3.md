@@ -1,9 +1,18 @@
 # 17 Feb: Platforms and the public sphere
 
+> ### Topics
 > - Transition from an analog to a digital public sphere, with speech and associational rights regulated by companies; virality over veracity in online discourse; tensions between quantity and quality of information; implications for democracy
 > - Business model concerns, including new conceptions of monopoly and market power of digital platforms, as well as government efforts to promote market competition (e.g., antitrust regulation)
 > - Technology behind efforts to regulate speech in online communities, including content moderation practices, frontiers/innovations in speech regulation
 > - Comparative analysis of how global platforms operate in diverse communities with different speech traditions and politics
+>
+> ### Table of contents
+> - [Content moderation](#content-moderation)
+>   - [De-platforming, banning, suspending](#de-platforming-banning-suspending)
+>     - [Government actors](#government-actors)
+>   - [<a href="https://oversightboard.com/" rel="nofollow">Facebook’s Oversight Board</a>](#facebooks-oversight-board)
+> - [Reading list](#reading-list)
+>   - [Supplementary reading](#supplementary-reading)
 
 ## Content moderation
 
