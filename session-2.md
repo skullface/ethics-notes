@@ -5,6 +5,9 @@
 > - Facial recognition technology (used by public and private actors)
 > - Consent for different types and uses of data
 
+<!--ts-->
+<!--te-->
+
 ## What is privacy?
 
 - Aristotle: public sphere (politics and commerce 🚹) differs from private sphere (domestic life, family and friends 🚺)
