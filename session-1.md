@@ -24,6 +24,3 @@ You should lose sleep at night when you hesitate between answering what you _sho
 - [Partnership on AI Tenets](https://www.partnershiponai.org/tenets/&sa=D&source=editors&ust=1613277808145000&usg=AOvVaw3jOMuwvofJG6sKj32MZBIc)
 - “[Of Course Congress Is Clueless About Tech—It Killed Its Tutor](https://www.wired.com/2016/04/office-technology-assessment-congress-clueless-tech-killed-tutor/&sa=D&source=editors&ust=1613277808145000&usg=AOvVaw2VpBS7LxUCtL-AdLCfnpIi)” (WIRED, 2016)
 - “[Data Science as Political Action: Grounding Data Science in a Politics of Justice](https://scholar.harvard.edu/files/bgreen/files/data_science_as_political_action.pdf&sa=D&source=editors&ust=1613277808145000&usg=AOvVaw20S4_ycl2N_elmW6uciysm)” by Ben Green (2019)
-
-</details>
-
