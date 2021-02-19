@@ -213,16 +213,21 @@ What other values/rights/interests might be in tension with privacy?
 
 ## 17 Feb: Platforms and the public sphere
 
+### Focuses
+- Transition from an analog to a digital public sphere, with speech and associational rights regulated by companies; virality over veracity in online discourse; tensions between quantity and quality of information; implications for democracy
+- Business model concerns, including new conceptions of monopoly and market power of digital platforms, as well as government efforts to promote market competition (e.g., antitrust regulation)
+- Technology behind efforts to regulate speech in online communities, including content moderation practices, frontiers/innovations in speech regulation
+- Comparative analysis of how global platforms operate in diverse communities with different speech traditions and politics
+
 ### Content moderation
 
 Content moderation is a really hard problem.
- * Obvious to us in tech, but not to ordinary citizens
- * What makes speech valuable? What about technology that changes that? 
- * The rise of private superpowers not beholden to the first amendment: Facebook and Twitter’s policies on expression is more consequential than France's. 
- * Autonomous review and 
- * There are more options than a binary show/don't show when it comes to content moderation
-    * Subject content to fact-checking, warning messages, lower its reach through visibility filtering, user timeouts, etc.
-    * Whether content _exists_ is different from whether content is seen
+- Obvious to us in tech, but not to ordinary citizens
+- What makes speech valuable? What about technology that changes that? 
+- The rise of private superpowers not beholden to the first amendment: Facebook and Twitter’s policies on expression is more consequential than France's. 
+- There are more options than a binary show/don't show when it comes to content moderation
+  - Subject content to fact-checking, warning messages, lower its reach through visibility filtering, user timeouts, etc.
+  - Whether content _exists_ is different from whether content is seen
 
 Salesforce has [taken unspecified action to stop the RNC](https://www.theverge.com/2021/1/11/22225936/salesforce-stop-rnc-sending-emails-incite-violence) from sending messages from possibly inciting violence. How far up the stack or down the stack should content moderation go? Telecom companies? Telecom companies _are_ already supposed to be content moderators with regard to spam and robocalls…
 
