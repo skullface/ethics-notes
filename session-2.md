@@ -6,6 +6,24 @@
 > - Consent for different types and uses of data
 
 <!--ts-->
+   * [10 Feb: Data collection, privacy and digital civil liberties](#10-feb-data-collection-privacy-and-digital-civil-liberties)
+      * [What is privacy?](#what-is-privacy)
+         * [Privacy harms](#privacy-harms)
+         * [Rival values](#rival-values)
+         * [Notice and consent](#notice-and-consent)
+         * [What are the alternatives?](#what-are-the-alternatives)
+         * [Perspectives on data privacy](#perspectives-on-data-privacy)
+      * [Why do <em>I</em> care about protecting my own privacy?](#why-do-i-care-about-protecting-my-own-privacy)
+      * [Reading list](#reading-list)
+         * [Supplementary reading](#supplementary-reading)
+            * [Promise and perils](#promise-and-perils)
+            * [Rights and responsibilities](#rights-and-responsibilities)
+            * [Technical deep dive](#technical-deep-dive)
+            * [Making choices](#making-choices)
+            * [Tensions and trade-offs](#tensions-and-trade-offs)
+
+<!-- Added by: runner, at: Fri Feb 19 02:31:16 UTC 2021 -->
+
 <!--te-->
 
 ## What is privacy?
