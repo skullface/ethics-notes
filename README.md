@@ -213,22 +213,6 @@ What other values/rights/interests might be in tension with privacy?
 
 ## 17 Feb: Platforms and the public sphere
 
-### Reading list
-- Mill, John Stuart. [_All Minus One: John Stuart Mill’s Ideas on Free Speech, Illustrated_](https://heterodoxacademy.org/library/all-minus-one/). Edited by Richard V. Reeves et al., Heterodox Academy, 2018. 
-- Barlow, John Perry. “[A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence).” John Perry Barlow Library, Electronic Frontier Foundation, 8 Feb. 1996. 
-- “[Permanent Suspension of @RealDonaldTrump](https://blog.twitter.com/en_us/topics/company/2020/suspension.html).” Twitter, Inc., 8 Jan. 2021. 
-- Nicas, Jack, and Davey Alba. “[Amazon, Apple and Google Cut Off Parler, an App That Drew Trump Supporters](https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html).” _The New York Times_, 10 Jan. 2021. 
-
-
-<details>
-  <summary><strong>Supplementary reading</strong></summary>
-
-https://www.lawfareblog.com/rushing-judgment-examining-government-mandated-content-moderation
-
-https://podcasts.apple.com/us/podcast/glenn-greenwald-on-substack-content-moderation-joe/id1522960417?i=1000507594869
-
-</details>
-
 ### Content moderation
 
 Content moderation is a really hard problem.
@@ -238,28 +222,41 @@ Content moderation is a really hard problem.
  * Autonomous review and 
  * There are more options than a binary show/don't show when it comes to content moderation
     * Subject content to fact-checking, warning messages, lower its reach through visibility filtering, user timeouts, etc.
+    * Whether content _exists_ is different from whether content is seen
 
 Salesforce has [taken unspecified action to stop the RNC](https://www.theverge.com/2021/1/11/22225936/salesforce-stop-rnc-sending-emails-incite-violence) from sending messages from possibly inciting violence. How far up the stack or down the stack should content moderation go? Telecom companies? Telecom companies _are_ already supposed to be content moderators with regard to spam and robocalls…
 
 ”Awful but lawful” must be codified as “lawful” is a very low bar with regard to content moderation.
 
-Whether content exists is different from whether content is seen.
-
 There is an unprecedented level of scope to community standards on social media.
 
-#### Parler and polarization
+When you can't define the science behind the “art” of moderation, how do you move forward? 
+
+#### De-platforming, banning, suspending
+
+We’ve seen three approaches to platform restrictions:
+- Banning an individual from a platform (e.g., Trump banned from Twitter, FB)
+- Removing an app from the App Store or Google Play Store (e.g., Parler app removed from both stores)
+- Suspending hosting for an app/social network (e.g., AWS cutting Parler’s cloud hosting)
+
+…Are these approaches equally valid? If not, why not?
 
 Deplatforming Parler was a deplatforming of a platform. Apple asked Parler to provide a [content moderation plan within 24 hours](https://mashable.com/article/tim-cook-apple-parler-suspension-app-store-moderation/) before kicking them off. Will Apple ask that of others? Is Apple now a content moderation reviewer?
 
-International human rights standards on incitement differ from existing content moderation policies. And international human rights standards value freedom of expression.
+Should we think of AWS as similar to or different than the major social media platforms with respect to the power/right they should have to deny access to their services?
 
-Will fringe audiences radicalize further as the large forum public spaces online disallow them? 
+How should the app store or cloud service provider determine whether or not to allow an app? Should it be based on the app’s stated Terms of Service or how the app is actually being used?
+
+International human rights standards on incitement differ from existing content moderation policies… and international human rights standards value freedom of expression.
+
+Will fringe audiences radicalize further as the large forum public spaces online disallow their conversation?
 
 In a polarized society, people will look to the individuals with the most power and influence and thus the greatest ability to cause harm and further division.
 
-Political officials that have an incentive to stay in power despite not being democratically elected should be held to the same standard citizens are, without special treatment (fact checking, rule breaking, etc.)
+#### Government actors
 
-When you can't define the science behind the “art” of moderation, how do you move forward? 
+Is it justifiable for a platform to handle accounts of public officials differently than those of the general public? Should this policy be different in democracies than it is in non-democracies? How so?
+- Political officials that have an incentive to stay in power despite not being democratically elected should be held to the same standard citizens are, without special treatment (fact checking, rule breaking, etc.)
 
 ### [Facebook’s Oversight Board](https://oversightboard.com/)
 Should Twitter join Facebook’s review board? Mark shouldn’t decide things alone, and neither should [Jack](https://twitter.com/jack/status/1349510769268850690). 
@@ -269,3 +266,19 @@ Does a review board remove accountability from the company itself? Is that a goo
 What are decisions that courts should make vs. decisions that companies should make?
 
 Historically, decisions and documents in major decisions are internal, which means there is a lack of public transparency and oversight.
+
+### Reading list
+- Mill, John Stuart. [_All Minus One: John Stuart Mill’s Ideas on Free Speech, Illustrated_](https://heterodoxacademy.org/library/all-minus-one/). Edited by Richard V. Reeves et al., Heterodox Academy, 2018. 
+- Barlow, John Perry. “[A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence).” John Perry Barlow Library, Electronic Frontier Foundation, 8 Feb. 1996. 
+- “[Permanent Suspension of @RealDonaldTrump](https://blog.twitter.com/en_us/topics/company/2020/suspension.html).” Twitter, Inc., 8 Jan. 2021. 
+- Nicas, Jack, and Davey Alba. “[Amazon, Apple and Google Cut Off Parler, an App That Drew Trump Supporters](https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html).” _The New York Times_, 10 Jan. 2021. 
+
+<details>
+  <summary><strong>Supplementary reading</strong></summary>
+
+- Mchangama, Jacob. “[Rushing to judgment: Examining government mandated content moderation](https://www.lawfareblog.com/rushing-judgment-examining-government-mandated-content-moderation).” _Lawfare_, 6 Feb. 2021.
+- Kantrowitz, Alex. “[Glenn Greenwald on Substack, Content Moderation, and Joe Roga‪n‬](onezero.medium.com/what-glenn-greenwald-fears-from-substack-b074eed4ef4d).” [Audio version](https://podcasts.apple.com/us/podcast/glenn-greenwald-on-substack-content-moderation-joe/id1522960417). _Big Technology — OneZero_, 3 Feb. 2021.
+
+
+
+</details>
