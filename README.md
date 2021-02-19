@@ -276,9 +276,16 @@ Historically, decisions and documents in major decisions are internal, which mea
 <details>
   <summary><strong>Supplementary reading</strong></summary>
 
+- Klonick, Kate, and Sue Halpern. “[Inside the Making of Facebook's Supreme Court](https://www.newyorker.com/tech/annals-of-technology/inside-the-making-of-facebooks-supreme-court).” _The New Yorker_, 12 Feb. 2021.
+- Douek, Evelyn. “[The Rise of Content Cartels](https://knightcolumbia.org/content/the-rise-of-content-cartels).” _Knight First Amendment Institute_, Columbia University, 11 Feb. 2020. 
+- Newton, Casey. “[Facebook Calls Australia's Bluff](https://www.platformer.news/p/facebook-calls-australias-bluff).” _Platformer_, 18 Feb. 2021. 
 - Mchangama, Jacob. “[Rushing to judgment: Examining government mandated content moderation](https://www.lawfareblog.com/rushing-judgment-examining-government-mandated-content-moderation).” _Lawfare_, 6 Feb. 2021.
 - Kantrowitz, Alex. “[Glenn Greenwald on Substack, Content Moderation, and Joe Roga‪n‬](onezero.medium.com/what-glenn-greenwald-fears-from-substack-b074eed4ef4d).” [Audio version](https://podcasts.apple.com/us/podcast/glenn-greenwald-on-substack-content-moderation-joe/id1522960417). _Big Technology — OneZero_, 3 Feb. 2021.
-
-
+- Barrett, Paul M., and J. Grant Sims. “[February 2021 Report Release | False Accusation: The Unfounded Claim That Social Media Companies Censor Conservatives](bhr.stern.nyu.edu/bias-report-release-page).” _NYU Stern Center for Business and Human Rights_, New York University, 1 Feb. 2021. 
+- Roose, Kevin, et al. “[Facebook Struggles to Balance Civility and Growth](https://www.nytimes.com/2020/11/24/technology/facebook-election-misinformation.html).” _The New York Times_, 24 Nov. 2020. 
+- Kaye, David. _[Speech Police: the Global Struggle to Govern the Internet](https://www.indiebound.org/book/9780999745489)_. Columbia Global Reports, 2019. 
+- Thompson, Ben. “[A Framework for Moderation](https://stratechery.com/2019/a-framework-for-moderation/).” _Stratechery by Ben Thompson_, 25 July 2020. 
+- van Mill, David. “[Freedom of Speech](https://plato.stanford.edu/entries/freedom-speech/#HarPriFreSpe).” _Stanford Encyclopedia of Philosophy_, Stanford University, 1 May 2017. 
+- Lyons, Kim. “[Peloton Appears to Have Removed QAnon-Related Hashtags from Its Platform](https://www.theverge.com/2020/10/10/21510509/peloton-removed-qanon-hashtags).” _The Verge_, 10 Oct. 2020. 
 
 </details>
