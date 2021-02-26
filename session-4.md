@@ -60,9 +60,7 @@ Oxford researchers posit 47% of jobs are at a high risk of being lost to automat
 
 #### Rights & Responsibilities
 
-- “[Artificial Intelligence, Automation and Work](https://www.nber.org/papers/w24196.pdf)” by Daron Acemoglu and Pascual Restrepo, pp. 1-15 (NBER, 2018)
 - “[AI and the Economy](https://www.nber.org/papers/w24689.pdf)” by Jason Furman and Robert Seamans (NBER, 2018)
-- “[Automation in Everyday Life](https://www.pewresearch.org/internet/2017/10/04/automation-in-everyday-life/)” by Aaron Smith and Monica Anderson (Pew Research Center, 2017)
 - “[New World Order](https://www.foreignaffairs.com/articles/united-states/2014-06-04/new-world-order)” by Erik Brynjolfsson, Andrew McAfee, and Michael Spence (Foreign Affairs, 2014)
 - “[Liability and Regulation of Autonomous Vehicle Technologies](https://www.rand.org/pubs/external_publications/EP20090427.html)” by Nidhi Kalra, James M. Anderson and Martin Wachs, pp. 17-36 (RAND, 2009)
 - “[Robots and Jobs: Evidence from US Labor Markets](https://www.nber.org/papers/w23285.pdf)” by Daron Acemoglu and Pascual Restrepo (NBER Working Paper, 2017)
@@ -71,7 +69,6 @@ Oxford researchers posit 47% of jobs are at a high risk of being lost to automat
 
 #### Making Choices
 
-- “[A Basic Income for All](https://bostonreview.net/archives/BR25.5/vanparijs.html)” by Philippe Van Parijs (Boston Review, 2000)
 - Kai-Fu Lee,[_AI Superpowers_](https://www.indiebound.org/book/9781328546395), chapter 4 (Houghton Mifflin Harcourt, 2018)
 - ”[It’s already too late to stop the AI arms race—We must manage it instead](https://thebulletin.org/2016/09/its-already-too-late-to-stop-the-ai-arms-race-we-must-manage-it-instead/)” by Edward Moore Geist (Bulletin of the Atomic Scientists, 2016)
 - “[The Short-Term Impact of Unconditional Cash Transfers to the Poor](https://pubmed.ncbi.nlm.nih.gov/33087990/)” by Johannes Haushofer and Jeremy Shapiro (The Quarterly Journal of Economics, 2016)
