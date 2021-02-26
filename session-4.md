@@ -51,14 +51,14 @@ Oxford researchers posit 47% of jobs are at a high risk of being lost to automat
 - “[Society-in-the-Loop](https://arxiv.org/pdf/1707.07232.pdf)” by Iyad Rahwan (ArXiv, 2017)
 - *[Artificial Intelligence in Society](https://www.oecd-ilibrary.org/science-and-technology/artificial-intelligence-in-society_eedfee77-en)*, Chapter 4 [Public Policy Considerations], (OECD, 2019)
 
-#### Tensions & Trade-offs
+#### Tensions and trade-offs
 
 - “[The Pursuit of the Ideal](http://assets.press.princeton.edu/chapters/s9983.pdf)” by Isaiah Berlin (ch. 1 from *The Crooked Timber of Humanity*)
 - “[Never Mind the Trolley: The Ethics of Autonomous Vehicles in Mundane Situations](https://link.springer.com/article/10.1007/s10677-018-9896-4)” by Johannes Himmelreich (Ethical Theory and Moral Practice, 2018)
 - “[Isaiah Berlin: Against Dogma](https://www.the-tls.co.uk/articles/isaiah-berlin-against-dogma)” by Henry Hardy (Times Literary Supplement, 2020)
 - “Pluralism and Incommensurable Goods” by Elizabeth Anderson (in *Value in Ethics and Economics*)
 
-#### Rights & Responsibilities
+#### Rights and responsibilities
 
 - “[AI and the Economy](https://www.nber.org/papers/w24689.pdf)” by Jason Furman and Robert Seamans (NBER, 2018)
 - “[New World Order](https://www.foreignaffairs.com/articles/united-states/2014-06-04/new-world-order)” by Erik Brynjolfsson, Andrew McAfee, and Michael Spence (Foreign Affairs, 2014)
@@ -67,7 +67,7 @@ Oxford researchers posit 47% of jobs are at a high risk of being lost to automat
 - Andrew McAfee & Erik Brynjolfsson, *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*
 - “[The American Corporation is in Crisis—Let's Rethink It](https://bostonreview.net/forum/lenore-palladino-american-corporation-crisis%E2%80%94lets-rethink-it)” by Lenore Palladino (Boston Review, 2019)
 
-#### Making Choices
+#### Making choices
 
 - Kai-Fu Lee,[_AI Superpowers_](https://www.indiebound.org/book/9781328546395), chapter 4 (Houghton Mifflin Harcourt, 2018)
 - ”[It’s already too late to stop the AI arms race—We must manage it instead](https://thebulletin.org/2016/09/its-already-too-late-to-stop-the-ai-arms-race-we-must-manage-it-instead/)” by Edward Moore Geist (Bulletin of the Atomic Scientists, 2016)
