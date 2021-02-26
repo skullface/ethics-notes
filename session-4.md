@@ -1,5 +1,17 @@
 # 24 Feb: Artificial intelligence and autonomous systems
 
+> ### Topics
+> - Aggregate and distributional consequences of automation (e.g., on labor markets, inequality)
+> - Role of policy in shaping the impact of AI and automation broadly, as well as specific policy responses (e.g., universal basic income)
+> - Competitive global landscape of AI development, comparative approaches to governance, and historical precedents for responses (e.g., Asilomar conference)
+>
+> ### Table of contents
+> - [Lecture notes](#lecture-notes)
+> - [Reading list](#reading-list)
+>   - [Supplementary reading](#supplementary-reading)
+
+## Lecture notes
+
 Technology's effect on labor is not new. 
 
 How can we think systematically about the effects of automation on wages, employment, and economic growth? Acemoglu and Restrepo offer an economic framework for assessing the impact of automation:
